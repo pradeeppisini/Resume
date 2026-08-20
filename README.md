@@ -171,3 +171,69 @@ Kudos Award (3 Times)
 Synergic Workforce Award
 - Awarded for ownership, delivery consistency, and adaptability to project requirements.
 
+
+RESUME:
+PISINI PRADEEP
+Java Backend Developer | Spring Boot | Microservices | Kafka | FinTech Payments
+Chennai, Tamil Nadu | +91 7287909358 | pradeep.pisini.india@gmail.com
+GitHub: https://github.com/pradeeppisini | LinkedIn: https://linkedin.com/in/pisinipradeep
+PROFESSIONAL SUMMARY
+Java Backend Developer with 2.7+ years of experience building and maintaining enterprise banking and payment processing applications. Hands-on expertise in Java, Spring Boot, microservices, REST APIs, Apache Kafka, Apache Flink, MongoDB, and SQL. Experienced in event-driven architecture, CI/CD automation, Docker-based deployments on OpenShift, production support, and legacy COBOL modernization. Proven ability to deliver scalable backend services for settlement, billing, and dispute workflows.
+SKILLS
+Languages: Java, SQL
+Backend: Spring Boot, Microservices, REST APIs, Swagger/OpenAPI, JPA, Hibernate
+Streaming and Messaging: Apache Kafka, Apache Flink
+Databases: MySQL, MongoDB, SQL Server
+DevOps and Tools: Git, GitHub, Maven, Jenkins, Docker, OpenShift, Postman, IntelliJ IDEA, PowerShell
+Testing: JUnit, Mockito
+Practices: Agile, CI/CD, Production Support, Monitoring, Incident Resolution
+WORK EXPERIENCE
+Mphasis Ltd | Associate Software Engineer
+November 2023 - Present | Chennai, India
+Client: Fiserv (Banking and Payment Processing)
+Developed RESTful microservices for settlement, billing, and dispute processing using Java, Spring Boot, and JPA.
+Built event-driven data pipelines using Apache Kafka and Apache Flink with MongoDB integration for low-latency card payment flows.
+Containerized services with Docker and deployed on OpenShift to improve deployment consistency and scalability.
+Configured and maintained Jenkins CI/CD pipelines to automate build, test, and deployment stages.
+Monitored production services, investigated runtime issues, and resolved incidents to maintain application stability.
+Contributed to migration of legacy COBOL modules into Java microservices, improving maintainability and modernization readiness.
+Quadient Inspire - Customer Communication Automation
+Worked on template design and multi-channel document delivery using Quadient Inspire Designer.
+LTTS | Engineer Trainee
+March 2023 - June 2023
+PROJECTS
+Enterprise Database Deployment Automation Framework | PowerShell, SQL Server | 2025-2026
+Designed and developed an enterprise database deployment automation framework for SQL Server release management.
+Implemented state management, checkpoint tracking, and resumable execution for failure recovery and restartable deployments.
+Built an automated SQL validation engine using dynamic script analysis for deployment verification and data integrity checks.
+Developed audit logging, execution tracking, and HTML/CSV reporting for operational visibility and traceability.
+Automated end-to-end deployment workflows, reducing manual effort and improving release consistency across environments.
+Speech-to-Text Application | Java 17, Spring Boot, Apache POI | 2026
+Developed a speech-to-text web application with real-time voice capture using Browser Web Speech API.
+Built REST APIs to capture transcribed speech and store timestamped records in Excel reports using Apache POI.
+Implemented a report endpoint to retrieve and display speech history through an HTML frontend.
+iMyTravelApp | Java 8, Spring Boot, MySQL | 2023
+Built REST APIs with full CRUD operations across 4 modules.
+Designed relational entities using JPA and Hibernate for efficient persistence.
+Implemented layered architecture (Controller, Service, Repository) with Lombok-based code simplification.
+Managed schema generation and query logging using Spring Data JPA and Hibernate configurations.
+EDUCATION
+Bachelor of Technology (Electronics and Communication Engineering)
+KL University | 2018 - 2022 | CGPA: 8.45
+Intermediate
+Narayana Junior College | 2016 - 2018 | CGPA: 8.27
+SSC
+Swetha Chalapathi Samasthanam School | 2015 - 2016 | CGPA: 8.70
+AWARDS
+Kudos Award (3 Times)
+Recognized for delivering applications under tight timelines through effective collaboration.
+Recognized for proactive contribution to internal innovation initiatives.
+Appreciated for continuous upskilling and ownership.
+Synergic Workforce Award
+Awarded for proactive delivery and adaptability to evolving project requirements.
+CERTIFICATIONS
+Certified Java Full Stack Developer - Mphasis (Simplilearn)
+Master AI Spec-Driven Development with BMAD Method
+Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
+Huawei Certified ICT Associate - Routing and Switching (HCIA-RS)
+Be brutally honest and provide an industry-standard ATS assessment with maximum accuracy.
